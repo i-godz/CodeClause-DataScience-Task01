@@ -1,4 +1,4 @@
-# CodeClause Data Science Intern Project-1: Gold Price Prediction
+# Gold Price Prediction
 
 This repository contains the code and resources for the Gold Price Prediction project, which is part of the CodeClause Data Science Internship program.
 
