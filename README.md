@@ -17,7 +17,7 @@ The goal of this project is to develop a machine learning model that can predict
 The repository is structured as follows:
 
 - `gold.csv/`: This directory contains the raw and preprocessed data used in the project.
-- `Gold_Price_Prediction.ipynb/`: This directory contains Jupyter notebook used for data preprocessing, feature engineering, model training, and evaluation.
+- `Gold_Prediction.ipynb/`: This directory contains Jupyter notebook used for data preprocessing, feature engineering, model training, and evaluation.
 
 
 ## Installation and Usage
